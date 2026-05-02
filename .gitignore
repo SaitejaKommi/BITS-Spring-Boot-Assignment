@@ -17,6 +17,7 @@ target/
 
 *.properties
 !application.properties
+!.mvn/wrapper/maven-wrapper.properties
 
 # H2 DB
 
