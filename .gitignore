@@ -1,0 +1,28 @@
+# Maven
+
+target/
+*.log
+
+# IDE
+
+.idea/
+*.iml
+.vscode/
+
+# OS
+
+.DS_Store
+
+# Application
+
+*.properties
+!application.properties
+
+# H2 DB
+
+*.mv.db
+*.trace.db
+
+# Logs
+
+logs/
